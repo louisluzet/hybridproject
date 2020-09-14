@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no",initial-scale="1.0">
+    <link rel="stylesheet" type="text/text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/all.css">
+    <link rel="stylesheet" type="text/css" href="css/newLogin.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+<nav>
+    <div class="nav-wrapper">
+        <a href="#!" class="brand-logo"><i class="material-icons">cloud</i>MyDaily</a>
+        <ul class="right">
+            <li><a id="home_btn" href="index1.html"><i class="material-icons">home</i></a></li>
+
+        </ul>
+    </div>
+</nav>
+<div id="content_wrap">
+<div class="row">
+    <form class="col s10">
+        <div class="row">
+            <div class="input-field col s10">
+                <i class="material-icons prefix">account_circle</i>
+                <input id="input_name" type="text" class="validate">
+                <label for="input_name">이름 입력</label>
+            </div>
+            <div class="input-field col s10">
+                <i class="material-icons prefix">phone</i>
+                <input id="input_tel" type="tel" class="validate">
+                <label for="input_tel">전화번호 입력</label>
+            </div>
+        </div>
+    </form>
+</div>
+    <a id="submit" class="waves-effect waves-light btn ">회원가입</a>
+</div>
+<script type="text/javascript">
+    $(document).ready(function(){
+    $('#submit').on('click',function(){
+    var name=$('#input_name').val();
+    var tel=$('#input_tel').val();
+
+    var object=new Object();
+    object.name=$('#input_name').val();
+    object.tel=$('#input_tel').val();
+
+    var jsonData=Json.stringify(object);
+
+    $.ajax({
+    url:"http://locathost.8080/test1/signin.do",//서버에 이파일을 만들고 호출하면 실행되니까 이 안에 아이디 패스워드 받아서 변수에 저장하고 디비에서 조회
+    type:'post',
+    contentType:"application/json;charset=UTF-8",
+    data:jsonData,
+    success:function(){
+    alert('저장되었습니다.');
+    location.href="index1.html";
+    },
+    error:function(){
+    alert('회원가입실패하였습니다.');
+    }
+
+    });
+
+      });
+
+    });
+
+</script>
+
+
+
+</body>
+</html>

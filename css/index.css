@@ -1,0 +1,39 @@
+html,body{
+  width:100%;
+  height:100%;
+}
+#main_wrap{
+  width:100%;
+  height:100%;
+  padding-top:200px;
+
+}
+
+.main_btn{
+  display: block !important;
+  width:150px;
+  height:40px;
+  line-height: 40px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding-top:200px;
+}
+
+.css-progressbar {
+    width: 80%;
+    animation: progressbar 2s ease-out;
+}
+
+
+// animation
+@keyframes progressbar {
+  0%  {
+    width: 0%;
+  }
+  100% {
+    width: 80%;
+  }
+
+}
+<svg height="150" width="150" > ......... </svg>
+

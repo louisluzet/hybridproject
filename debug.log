@@ -1,0 +1,292 @@
+[0810/115054.328:WARNING:process_reader_win.cc(156)] Thread 19752 should be suspended, but previous_suspend_count is 0
+[0810/115054.329:WARNING:process_reader_win.cc(156)] Thread 17744 should be suspended, but previous_suspend_count is 0
+[0810/115054.329:WARNING:process_reader_win.cc(156)] Thread 24424 should be suspended, but previous_suspend_count is 0
+[0810/115054.329:WARNING:process_reader_win.cc(156)] Thread 19288 should be suspended, but previous_suspend_count is 0
+[0810/115054.330:WARNING:process_reader_win.cc(156)] Thread 13972 should be suspended, but previous_suspend_count is 0
+[0810/115054.330:WARNING:process_reader_win.cc(156)] Thread 15184 should be suspended, but previous_suspend_count is 0
+[0810/115054.331:ERROR:process_reader_win.cc(188)] ResumeThread: 매개 변수가 틀립니다. (0x57)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.332:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.333:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.333:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0810/115054.334:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1620c1000 of 852 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.334:ERROR:process_snapshot_win.cc(389)] ReadMemory PEB
+[0810/115054.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2334935e4e0 of 6656 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.335:ERROR:process_snapshot_win.cc(322)] failed to read unloaded module data
+[0810/115054.338:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2334934b800 of 72 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.339:WARNING:pe_image_annotations_reader.cc(134)] could not read annotations list object in C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome_elf.dll
+[0810/115054.339:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9f8dc0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.339:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome.dll
+[0810/115054.339:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9f8dc0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.339:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome.dll
+[0810/115054.384:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff62eea0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c300000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a640000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59770000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa1f090000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome_elf.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa50290000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c1b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59320000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a3b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5bfe0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b000000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9f8dc0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c250000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0810/115054.385:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b8d0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.385:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59280000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa595a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b9a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59540000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59210000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a1b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa58730000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa51cd0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa466b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa590a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa591c0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa32840000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa42b30000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa48730000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa591f0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.386:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0810/115054.386:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa596a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa57ad0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa49900000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa48550000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b210000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa51ca0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59720000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa53ef0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c100000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa590d0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0810/115054.387:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa58bf0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.387:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0810/115054.396:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff62eea0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.396:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c300000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a640000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59770000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa1f090000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome_elf.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa50290000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c1b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59320000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a3b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5bfe0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b000000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9f8dc0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c250000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b8d0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59280000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa595a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b9a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59540000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59210000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.397:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0810/115054.397:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a1b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa58730000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa51cd0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa466b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa590a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa591c0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa32840000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa42b30000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa48730000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa591f0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa596a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa57ad0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa49900000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa48550000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b210000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa51ca0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59720000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa53ef0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c100000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa590d0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.398:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0810/115054.398:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa58bf0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff62eea0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c300000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a640000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59770000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa1f090000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome_elf.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa50290000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c1b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59320000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a3b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5bfe0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b000000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9f8dc0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c250000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b8d0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59280000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa595a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b9a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59540000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.399:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0810/115054.399:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59210000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5a1b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa58730000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa51cd0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa466b0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa590a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa591c0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa32840000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa42b30000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa48730000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa591f0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa596a0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0810/115054.400:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa57ad0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.400:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa49900000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa48550000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b210000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa51ca0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa59720000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa53ef0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c100000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa590d0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0810/115054.401:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa58bf0000 of 64 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.401:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1629f9000 of 28672 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1631fd000 of 12288 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1639fd000 of 12288 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1641fc000 of 16384 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1649fb000 of 20480 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1620c1000 of 852 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1620c2000 of 6024 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1620c4000 of 6024 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1620c6000 of 6024 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1620c8000 of 6024 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.410:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc1620ca000 of 6024 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2334935001c of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x233493c5f00 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x233493f14a0 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23349428d40 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2334ad73950 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2334ad74fe0 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2334b0facd8 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9f937bbc4 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9fbd837d2 of 553 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9ff82ccf0 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa599dc720 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c39c074 of 672 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.411:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5c39c674 of 512 bytes failed: ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다. (0x12B)
+[0810/115054.412:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 기존 프로세스에 액세스하려고 했습니다. (0xc000010a)
